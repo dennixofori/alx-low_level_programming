@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - main fuction to generate a random number
+ * main - Determine if a number is positive, negative or zero
  *
  * Return: Always 0 (Success)
  *
