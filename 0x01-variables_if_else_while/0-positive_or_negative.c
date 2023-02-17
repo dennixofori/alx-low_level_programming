@@ -1,7 +1,6 @@
 #include <stdio.h>
-#include <stdio.h>
 #include <time.h>
-
+#include <stdlib.h>
 /**
  * main - Determine the random number
  *
